@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# RecAI: Leveraging Large Language Models for Next-Generation Recommender Systems
+# Neuralnexus: Leveraging Large Language Models for Next-Generation Recommender Systems
 
 </div>
 
